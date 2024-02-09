@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-wallyson03jhonatan@gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallyson03jhonatan@gmail.com)](mailto:wallyson03jhonatan@gmail)
 
 ## My name is Wallyson Oliveira
-(Vue JS | React JS | Javascript | HTML | CSS | Typescript | CSS | PHP | MySQL | Vuex | Vuetify | Tailwind ) 🚀
+(Vue JS | React JS | Nuxt | Next | Javascript | Typescript | HTML | CSS | PHP | Laravel | MySQL | Tailwind ) 🚀
 - 👩‍💻 Software Developer
 - 🎓 Analysis and Systems Development Student @[UNICAMP](https://www.unicamp.br/unicamp/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
-- 🌱 I’m currently learning React & Typescript
+- 🌱 I’m currently learning Next, Nuxt, Laravel
