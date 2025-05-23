@@ -6,7 +6,7 @@
 
 ## My name is Wallyson Oliveira
 (Vue JS | React JS | Nuxt | Next | Javascript | Typescript | HTML | CSS | PHP | Laravel | MySQL | Tailwind ) 🚀
-- 👩‍💻 +3XP Software Developer
+- 👩‍💻 +3 years experience like Software Developer
 - 🎓 Analysis and Systems Development Student @[UNICAMP](https://www.unicamp.br/unicamp/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
